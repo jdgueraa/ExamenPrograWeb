@@ -1,0 +1,103 @@
+h1{
+    background-color: yellow;
+    font-weight: bolder;
+    color: green;
+    font-family: sans-serif;
+}
+
+#footer{
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    
+}
+
+
+body {
+    font-size: 12px;
+    
+    margin: 10px auto;
+    background-color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    
+}
+
+header {
+    background-color: yellow;
+    text-align:left;
+    text-shadow: 4px 5px 2px gray;
+}
+
+
+.header-content {
+  max-width: 1100px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+  
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 2.0rem;
+  
+}
+
+.header p {
+  margin-top: 8px;
+}
+
+#vacio{
+    color:white;
+    background-color: white;
+    align-items: center;
+    
+}
+
+
+
+.tres-columnas {
+  display: flex;
+  gap: 40px;
+}
+
+.tres-columnas > div {
+  flex: 1;
+  min-width: 250px;
+  color: red;
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+
+}
+
+#caja{
+    background-color: white;
+   
+}
+
+#dados{
+    display: flex;
+    flex: 1;
+    gap: 40px;
+
+}
+
+#texto{
+    color: blue;
+}
+
+#nombre{
+    background-color: yellow;
+    color: black;
+}
+
